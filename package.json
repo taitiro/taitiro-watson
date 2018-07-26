@@ -4,6 +4,7 @@
   "description": "Watson for taitiro.",
   "main": "app.js",
   "dependencies": {
+    "dotenv": "^6.0.0",
     "watson-developer-cloud": "^3.7.1"
   },
   "devDependencies": {},
