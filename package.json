@@ -1,0 +1,23 @@
+{
+  "name": "taitiro-watson",
+  "version": "0.0.1",
+  "description": "Watson for taitiro.",
+  "main": "app.js",
+  "dependencies": {
+    "watson-developer-cloud": "^3.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taitiro/taitiro-watson.git"
+  },
+  "author": "Taichiro Kosugi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taitiro/taitiro-watson/issues"
+  },
+  "homepage": "https://github.com/taitiro/taitiro-watson#readme"
+}
